@@ -11,7 +11,7 @@ blurb:
     profits are reinvested in their communities.
 
 
-    https://nifty-lamarr-b3033d.netlify.com/admin/
+    <html><link> https://nifty-lamarr-b3033d.netlify.com/admin/ </link></html>
 intro:
   heading: What we offer
   text: >-
